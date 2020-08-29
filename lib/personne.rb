@@ -1,4 +1,4 @@
-require 'mysql'
+require 'sqlite3'
 
 class World
 
